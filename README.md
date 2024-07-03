@@ -1,27 +1,18 @@
-# Background-changer
+Background Color Changer
+This is a simple React JS application that allows users to change the background color of a webpage by selecting different colors from a color picker.
 
-Here's a `README.md` file for a background color changer application using React JS:
+Features
+Select a color using the color input
+The background color of the webpage changes to the selected color
+Responsive design
+Demo
+You can check out a live demo of the application here.
 
-```markdown
-# Background Color Changer using React JS
-
-## Overview
-
-This project is a simple web application built with React JS that allows users to change the background color of the page. The application provides a user-friendly interface where users can select a color from a color picker and apply it as the background color.
-
-## Features
-
-- **Color Picker**: Users can pick any color using the HTML color input.
-- **Real-time Preview**: The background color changes in real-time as users select different colors.
-- **Reset Button**: Users can reset the background color to the default color.
-
-## Demo
-
-![Background Color Changer Demo](demo.gif)
 
 ## Installation
 
 To get started with the project, follow these steps:
+
 
 1. **Clone the repository**:
    ```bash
