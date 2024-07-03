@@ -16,8 +16,8 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/background-color-changer.git
-   cd background-color-changer
+   git clone https://github.com/sujaykhond/Background-changer.git
+   cd Background-changer
    ```
 
 2. **Install dependencies**:
@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
    npm start
    ```
 
-   The application will be available at `http://localhost:3000`.
+   The application will be available at `http://localhost:5173`.
 
 ## Usage
 
@@ -52,11 +52,10 @@ background-color-changer/
 │   └── ...
 │
 ├── src/
-│   ├── components/
-│   │   └── ColorPicker.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
+│   ├── App.jsx
+│   ├── index.jsx
+│   └── App.css
+│   └── index.css
 │
 ├── package.json
 ├── README.md
@@ -65,14 +64,14 @@ background-color-changer/
 
 ## Components
 
-- **ColorPicker.js**: This component contains the color picker input and the reset button.
-- **App.js**: This is the main component that manages the state of the background color.
+- **App.jsx**: This is the main component that manages the state of the background color.
 
 ## Technologies Used
 
 - **React JS**: A JavaScript library for building user interfaces.
 - **HTML**: The standard markup language for creating web pages.
 - **CSS**: A stylesheet language used to describe the presentation of a document written in HTML.
+
 
 ## Contributing
 
@@ -95,8 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your-email@example.com].
+If you have any questions or feedback, please feel free to contact me at [sujaykhond@gmail.com].
 
 ```
-
-Replace placeholders like `https://github.com/yourusername/background-color-changer.git` and `[your-email@example.com]` with your actual repository URL and contact information. Additionally, if you have a demo GIF, include it in the `Demo` section for better visualization.
