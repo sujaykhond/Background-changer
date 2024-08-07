@@ -1,4 +1,4 @@
-Background Color Changer
+### Background Color Changer
 This is a simple React JS application that allows users to change the background color of a webpage by selecting different colors from a color picker.
 
 Features
